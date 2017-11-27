@@ -1,0 +1,30 @@
+{
+  "name": "babel-plugin-import-md-to-js",
+  "version": "1.0.0",
+  "description": "Babel plugin to convert md imports into js objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-examples": "babel examples/ -d examples-dist/ --plugins ../index.js"
+  },
+  "keywords": [
+    "babel",
+    "js",
+    "md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/websecurify/babel-plugin-import-md-to-js.git",
+    "web": "https://github.com/websecurify/babel-plugin-import-md-to-js"
+  },
+  "author": "Websecurfiy <contact@websecurify.com>",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^3.10.0",
+    "marked": "^0.3.6",
+    "require-resolve": "0.0.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.9.0"
+  }
+}
