@@ -1,4 +1,3 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9e20bb0ed58640379d4d9ebd2a0e168f)](https://www.codacy.com/app/Websecurify/babel-plugin-import-md-to-js?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=websecurify/babel-plugin-import-md-to-js&amp;utm_campaign=Badge_Grade)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/websecurify.svg?logo=twitter)](https://twitter.com/websecurify)
 
 # babel-plugin-import-md-to-js
